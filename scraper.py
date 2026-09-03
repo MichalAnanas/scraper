@@ -15,7 +15,7 @@ from playwright.sync_api import sync_playwright
 
 INPUT_FILE = "urls.txt"
 OUTPUT_FILE = "products_data.csv"
-HEADLESS = False
+HEADLESS = True
 
 # Delay - pierwszy request (cookies) vs kolejne
 DELAY_FIRST_REQUEST = 3  # Dłuższy na początku (cookies, render)
