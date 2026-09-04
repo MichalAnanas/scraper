@@ -294,7 +294,7 @@ def extract_price_from_html(html):
 # =============================================================================
 
 def scrape(page, url, is_first_request=False, custom_date=None):
-      if is_first_request:
+    if is_first_request:
             page.screenshot(path="debug_screenshot.png", full_page=True)
             print(f"  🐛 DEBUG - tytuł strony: {page.title()}")
     """
