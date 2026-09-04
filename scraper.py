@@ -18,8 +18,8 @@ OUTPUT_FILE = "products_data.csv"
 HEADLESS = True
 
 # Delay - pierwszy request (cookies) vs kolejne
-DELAY_FIRST_REQUEST = 3  # Dłuższy na początku (cookies, render)
-DELAY_BETWEEN_REQUESTS = 1  # Krótszy dla kolejnych (już zaakceptowane cookies)
+DELAY_FIRST_REQUEST = 60  # Dłuższy na początku (cookies, render)
+DELAY_BETWEEN_REQUESTS = 30  # Krótszy dla kolejnych (już zaakceptowane cookies)
 
 # TRYB BACKFILL - uzupełnianie brakujących dni
 BACKFILL_MODE = False # Ustaw True gdy chcesz uzupełnić brakujące dni
