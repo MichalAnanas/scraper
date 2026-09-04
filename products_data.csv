@@ -2174,28 +2174,53 @@ date,category,name,price,availability,url
 2026-08-16,Płyta główna,Gigabyte B650 EAGLE AX,569.0,,https://www.x-kom.pl/p/1226980-plyta-glowna-socket-am5-gigabyte-b650-eagle-ax.html
 2026-08-16,Płyta główna,Gigabyte X870 AORUS ELITE WIFI7 ICE,1189.0,,https://www.x-kom.pl/p/1282691-plyta-glowna-socket-am5-gigabyte-x870-aorus-elite-wifi7-ice.html
 2026-08-16,Płyta główna,MSI B550 GAMING WIFI,559.0,,https://www.x-kom.pl/p/1480681-plyta-glowna-socket-am4-msi-b550-gaming-wifi.html
-2026-08-17,Dysk,ADATA Dysk SSD External SD810 2TB USB3.2C 20Gb/s Srebrny,1499.00,,https://www.x-kom.pl/p/1211896-dysk-zewnetrzny-ssd-adata-dysk-ssd-external-sd810-2tb-usb32c-20gb-s-srebrny.html
-2026-08-17,Dysk,Lexar 1TB M.2 PCIe Gen4 NVMe NM790,769.00,,https://www.x-kom.pl/p/1146134-dysk-ssd-lexar-1tb-m2-pcie-gen4-nvme-nm790.html
-2026-08-17,Dysk,Samsung 2TB M.2 PCIe Gen5 NVMe 9100 PRO,2699.00,,https://www.x-kom.pl/p/1322624-dysk-ssd-samsung-2tb-m2-pcie-gen5-nvme-9100-pro.html
+2026-08-17,Dysk,ADATA Dysk SSD External SD810 2TB USB3.2C 20Gb/s Srebrny,1499.0,,https://www.x-kom.pl/p/1211896-dysk-zewnetrzny-ssd-adata-dysk-ssd-external-sd810-2tb-usb32c-20gb-s-srebrny.html
+2026-08-17,Dysk,Lexar 1TB M.2 PCIe Gen4 NVMe NM790,769.0,,https://www.x-kom.pl/p/1146134-dysk-ssd-lexar-1tb-m2-pcie-gen4-nvme-nm790.html
+2026-08-17,Dysk,Samsung 2TB M.2 PCIe Gen5 NVMe 9100 PRO,2699.0,,https://www.x-kom.pl/p/1322624-dysk-ssd-samsung-2tb-m2-pcie-gen5-nvme-9100-pro.html
 2026-08-17,Dysk,Seagate BARRACUDA 2TB 7200obr. 256MB,9.99,,https://www.x-kom.pl/p/461759-dysk-hdd-seagate-barracuda-2tb-7200obr-256mb.html
-2026-08-17,Dysk,Synology HAT3320-8T 8TB Plus,2199.00,,https://www.x-kom.pl/p/1418298-dysk-hdd-synology-hat3320-8t-8tb-plus.html
-2026-08-17,Karta graficzna,Gigabyte GeForce RTX 5070 Windforce OC 12GB GDDR7 DLSS4,3499.00,Zobacz produkty,https://www.x-kom.pl/p/1318534-karta-graficzna-nvidia-gigabyte-geforce-rtx-5070-windforce-oc-12gb-gddr7-dlss4.html
-2026-08-17,Karta graficzna,Gigabyte GeForce RTX 5080 Windforce OC 16GB GDDR7 DLSS4,6199.00,,https://www.x-kom.pl/p/1309189-karta-graficzna-nvidia-gigabyte-geforce-rtx-5080-windforce-oc-16gb-gddr7-dlss4.html
-2026-08-17,Karta graficzna,Gigabyte Radeon RX 9060 XT Gaming OC 16GB GDDR6,2299.00,Zobacz produkty,https://www.x-kom.pl/p/1339802-karta-graficzna-amd-gigabyte-radeon-rx-9060-xt-gaming-oc-16gb-gddr6.html
-2026-08-17,Karta graficzna,MSI GeForce RTX 5090 Gaming Trio OC 32GB GDDR7 DLSS4,21499.00,Zobacz produkty,https://www.x-kom.pl/p/1314559-karta-graficzna-nvidia-msi-geforce-rtx-5090-gaming-trio-oc-32gb-gddr7-dlss4.html
-2026-08-17,Karta graficzna,PowerColor Radeon RX 7600 Fighter 8GB V2 GDDR6,1249.00,,https://www.x-kom.pl/p/1368326-karta-graficzna-amd-powercolor-radeon-rx-7600-fighter-8gb-v2-gddr6.html
-2026-08-17,Pamięć RAM,Corsair 16GB (2x8GB) 5600 CL40 Vengeance RGB,1299.00,,https://www.x-kom.pl/p/1486220-pamiec-ram-ddr5-corsair-16gb-2x8gb-5600-cl40-vengeance-rgb.html
-2026-08-17,Pamięć RAM,G.SKILL 32GB (2x16GB) 3200MHz CL16 Aegis,1169.00,,https://www.x-kom.pl/p/539275-pamiec-ram-ddr4-gskill-32gb-2x16gb-3200mhz-cl16-aegis.html
-2026-08-17,Pamięć RAM,GOODRAM 8GB (1x8GB) 1600MHz CL11,209.00,,https://www.x-kom.pl/p/420909-pamiec-ram-sodimm-ddr3-goodram-8gb-1x8gb-1600mhz-cl11.html
-2026-08-17,Pamięć RAM,Kingston FURY 16GB (2x8GB) 3200MHz CL16 Beast Black,749.00,,https://www.x-kom.pl/p/667295-pamiec-ram-ddr4-kingston-fury-16gb-2x8gb-3200mhz-cl16-beast-black.html
-2026-08-17,Pamięć RAM,Patriot 32GB (2x16GB) 6000MT/s CL30 Venom,1909.00,,https://www.x-kom.pl/p/1258925-pamiec-ram-ddr5-patriot-32gb-2x16gb-6000mt-s-cl30-venom.html
-2026-08-17,Procesor,AMD Ryzen 7 5800X,959.00,,https://www.x-kom.pl/p/597430-procesor-amd-ryzen-7-amd-ryzen-7-5800x.html
-2026-08-17,Procesor,AMD Ryzen 7 9800X3D,1829.00,,https://www.x-kom.pl/p/1292320-procesor-amd-ryzen-7-amd-ryzen-7-9800x3d.html
-2026-08-17,Procesor,AMD Ryzen Threadripper PRO 9995WX,51399.00,,https://www.x-kom.pl/p/1352192-procesor-amd-threadripper-amd-ryzen-threadripper-pro-9995wx.html
-2026-08-17,Procesor,Intel Core i5-12400F,579.00,,https://www.x-kom.pl/p/702238-procesory-intel-core-i5-intel-core-i5-12400f.html
-2026-08-17,Procesor,Intel Core i7-12700KF,1039.00,,https://www.x-kom.pl/p/689604-procesor-intel-core-i7-intel-core-i7-12700kf.html
-2026-08-17,Płyta główna,ASRock A520M-ITX/AC,429.00,,https://www.x-kom.pl/p/613677-plyta-glowna-socket-am4-asrock-a520m-itx-ac.html
-2026-08-17,Płyta główna,ASUS TUF GAMING B850-PLUS WIFI,909.00,,https://www.x-kom.pl/p/1306481-plyta-glowna-socket-am5-asus-tuf-gaming-b850-plus-wifi.html
-2026-08-17,Płyta główna,Gigabyte B650 EAGLE AX,569.00,,https://www.x-kom.pl/p/1226980-plyta-glowna-socket-am5-gigabyte-b650-eagle-ax.html
-2026-08-17,Płyta główna,Gigabyte X870 AORUS ELITE WIFI7 ICE,1189.00,,https://www.x-kom.pl/p/1282691-plyta-glowna-socket-am5-gigabyte-x870-aorus-elite-wifi7-ice.html
-2026-08-17,Płyta główna,MSI B550 GAMING WIFI,559.00,,https://www.x-kom.pl/p/1480681-plyta-glowna-socket-am4-msi-b550-gaming-wifi.html
+2026-08-17,Dysk,Synology HAT3320-8T 8TB Plus,2199.0,,https://www.x-kom.pl/p/1418298-dysk-hdd-synology-hat3320-8t-8tb-plus.html
+2026-08-17,Karta graficzna,Gigabyte GeForce RTX 5070 Windforce OC 12GB GDDR7 DLSS4,3499.0,Zobacz produkty,https://www.x-kom.pl/p/1318534-karta-graficzna-nvidia-gigabyte-geforce-rtx-5070-windforce-oc-12gb-gddr7-dlss4.html
+2026-08-17,Karta graficzna,Gigabyte GeForce RTX 5080 Windforce OC 16GB GDDR7 DLSS4,6199.0,,https://www.x-kom.pl/p/1309189-karta-graficzna-nvidia-gigabyte-geforce-rtx-5080-windforce-oc-16gb-gddr7-dlss4.html
+2026-08-17,Karta graficzna,Gigabyte Radeon RX 9060 XT Gaming OC 16GB GDDR6,2299.0,Zobacz produkty,https://www.x-kom.pl/p/1339802-karta-graficzna-amd-gigabyte-radeon-rx-9060-xt-gaming-oc-16gb-gddr6.html
+2026-08-17,Karta graficzna,MSI GeForce RTX 5090 Gaming Trio OC 32GB GDDR7 DLSS4,21499.0,Zobacz produkty,https://www.x-kom.pl/p/1314559-karta-graficzna-nvidia-msi-geforce-rtx-5090-gaming-trio-oc-32gb-gddr7-dlss4.html
+2026-08-17,Karta graficzna,PowerColor Radeon RX 7600 Fighter 8GB V2 GDDR6,1249.0,,https://www.x-kom.pl/p/1368326-karta-graficzna-amd-powercolor-radeon-rx-7600-fighter-8gb-v2-gddr6.html
+2026-08-17,Pamięć RAM,Corsair 16GB (2x8GB) 5600 CL40 Vengeance RGB,1299.0,,https://www.x-kom.pl/p/1486220-pamiec-ram-ddr5-corsair-16gb-2x8gb-5600-cl40-vengeance-rgb.html
+2026-08-17,Pamięć RAM,G.SKILL 32GB (2x16GB) 3200MHz CL16 Aegis,1169.0,,https://www.x-kom.pl/p/539275-pamiec-ram-ddr4-gskill-32gb-2x16gb-3200mhz-cl16-aegis.html
+2026-08-17,Pamięć RAM,GOODRAM 8GB (1x8GB) 1600MHz CL11,209.0,,https://www.x-kom.pl/p/420909-pamiec-ram-sodimm-ddr3-goodram-8gb-1x8gb-1600mhz-cl11.html
+2026-08-17,Pamięć RAM,Kingston FURY 16GB (2x8GB) 3200MHz CL16 Beast Black,749.0,,https://www.x-kom.pl/p/667295-pamiec-ram-ddr4-kingston-fury-16gb-2x8gb-3200mhz-cl16-beast-black.html
+2026-08-17,Pamięć RAM,Patriot 32GB (2x16GB) 6000MT/s CL30 Venom,1909.0,,https://www.x-kom.pl/p/1258925-pamiec-ram-ddr5-patriot-32gb-2x16gb-6000mt-s-cl30-venom.html
+2026-08-17,Procesor,AMD Ryzen 7 5800X,959.0,,https://www.x-kom.pl/p/597430-procesor-amd-ryzen-7-amd-ryzen-7-5800x.html
+2026-08-17,Procesor,AMD Ryzen 7 9800X3D,1829.0,,https://www.x-kom.pl/p/1292320-procesor-amd-ryzen-7-amd-ryzen-7-9800x3d.html
+2026-08-17,Procesor,AMD Ryzen Threadripper PRO 9995WX,51399.0,,https://www.x-kom.pl/p/1352192-procesor-amd-threadripper-amd-ryzen-threadripper-pro-9995wx.html
+2026-08-17,Procesor,Intel Core i5-12400F,579.0,,https://www.x-kom.pl/p/702238-procesory-intel-core-i5-intel-core-i5-12400f.html
+2026-08-17,Procesor,Intel Core i7-12700KF,1039.0,,https://www.x-kom.pl/p/689604-procesor-intel-core-i7-intel-core-i7-12700kf.html
+2026-08-17,Płyta główna,ASRock A520M-ITX/AC,429.0,,https://www.x-kom.pl/p/613677-plyta-glowna-socket-am4-asrock-a520m-itx-ac.html
+2026-08-17,Płyta główna,ASUS TUF GAMING B850-PLUS WIFI,909.0,,https://www.x-kom.pl/p/1306481-plyta-glowna-socket-am5-asus-tuf-gaming-b850-plus-wifi.html
+2026-08-17,Płyta główna,Gigabyte B650 EAGLE AX,569.0,,https://www.x-kom.pl/p/1226980-plyta-glowna-socket-am5-gigabyte-b650-eagle-ax.html
+2026-08-17,Płyta główna,Gigabyte X870 AORUS ELITE WIFI7 ICE,1189.0,,https://www.x-kom.pl/p/1282691-plyta-glowna-socket-am5-gigabyte-x870-aorus-elite-wifi7-ice.html
+2026-08-17,Płyta główna,MSI B550 GAMING WIFI,559.0,,https://www.x-kom.pl/p/1480681-plyta-glowna-socket-am4-msi-b550-gaming-wifi.html
+2026-09-04,Dysk,www.x-kom.pl,N/A,N/A,https://www.x-kom.pl/p/1322624-dysk-ssd-samsung-2tb-m2-pcie-gen5-nvme-9100-pro.html
+2026-09-04,Dysk,www.x-kom.pl,N/A,N/A,https://www.x-kom.pl/p/1146134-dysk-ssd-lexar-1tb-m2-pcie-gen4-nvme-nm790.html
+2026-09-04,Dysk,www.x-kom.pl,N/A,N/A,https://www.x-kom.pl/p/1418298-dysk-hdd-synology-hat3320-8t-8tb-plus.html
+2026-09-04,Dysk,www.x-kom.pl,N/A,N/A,https://www.x-kom.pl/p/461759-dysk-hdd-seagate-barracuda-2tb-7200obr-256mb.html
+2026-09-04,Dysk,www.x-kom.pl,N/A,N/A,https://www.x-kom.pl/p/1211896-dysk-zewnetrzny-ssd-adata-dysk-ssd-external-sd810-2tb-usb32c-20gb-s-srebrny.html
+2026-09-04,Karta graficzna,www.x-kom.pl,N/A,N/A,https://www.x-kom.pl/p/1339802-karta-graficzna-amd-gigabyte-radeon-rx-9060-xt-gaming-oc-16gb-gddr6.html
+2026-09-04,Karta graficzna,www.x-kom.pl,N/A,N/A,https://www.x-kom.pl/p/1318534-karta-graficzna-nvidia-gigabyte-geforce-rtx-5070-windforce-oc-12gb-gddr7-dlss4.html
+2026-09-04,Karta graficzna,www.x-kom.pl,N/A,N/A,https://www.x-kom.pl/p/1314559-karta-graficzna-nvidia-msi-geforce-rtx-5090-gaming-trio-oc-32gb-gddr7-dlss4.html
+2026-09-04,Karta graficzna,www.x-kom.pl,N/A,N/A,https://www.x-kom.pl/p/1309189-karta-graficzna-nvidia-gigabyte-geforce-rtx-5080-windforce-oc-16gb-gddr7-dlss4.html
+2026-09-04,Karta graficzna,www.x-kom.pl,N/A,N/A,https://www.x-kom.pl/p/1368326-karta-graficzna-amd-powercolor-radeon-rx-7600-fighter-8gb-v2-gddr6.html
+2026-09-04,Pamięć RAM,www.x-kom.pl,N/A,N/A,https://www.x-kom.pl/p/1486220-pamiec-ram-ddr5-corsair-16gb-2x8gb-5600-cl40-vengeance-rgb.html
+2026-09-04,Pamięć RAM,www.x-kom.pl,N/A,N/A,https://www.x-kom.pl/p/1258925-pamiec-ram-ddr5-patriot-32gb-2x16gb-6000mt-s-cl30-venom.html
+2026-09-04,Pamięć RAM,www.x-kom.pl,N/A,N/A,https://www.x-kom.pl/p/667295-pamiec-ram-ddr4-kingston-fury-16gb-2x8gb-3200mhz-cl16-beast-black.html
+2026-09-04,Pamięć RAM,www.x-kom.pl,N/A,N/A,https://www.x-kom.pl/p/539275-pamiec-ram-ddr4-gskill-32gb-2x16gb-3200mhz-cl16-aegis.html
+2026-09-04,Pamięć RAM,www.x-kom.pl,N/A,N/A,https://www.x-kom.pl/p/420909-pamiec-ram-sodimm-ddr3-goodram-8gb-1x8gb-1600mhz-cl11.html
+2026-09-04,Procesor,www.x-kom.pl,N/A,N/A,https://www.x-kom.pl/p/1292320-procesor-amd-ryzen-7-amd-ryzen-7-9800x3d.html
+2026-09-04,Procesor,www.x-kom.pl,N/A,N/A,https://www.x-kom.pl/p/597430-procesor-amd-ryzen-7-amd-ryzen-7-5800x.html
+2026-09-04,Procesor,www.x-kom.pl,N/A,N/A,https://www.x-kom.pl/p/702238-procesory-intel-core-i5-intel-core-i5-12400f.html
+2026-09-04,Procesor,www.x-kom.pl,N/A,N/A,https://www.x-kom.pl/p/689604-procesor-intel-core-i7-intel-core-i7-12700kf.html
+2026-09-04,Procesor,www.x-kom.pl,N/A,N/A,https://www.x-kom.pl/p/1352192-procesor-amd-threadripper-amd-ryzen-threadripper-pro-9995wx.html
+2026-09-04,Płyta główna,www.x-kom.pl,N/A,N/A,https://www.x-kom.pl/p/1226980-plyta-glowna-socket-am5-gigabyte-b650-eagle-ax.html
+2026-09-04,Płyta główna,www.x-kom.pl,N/A,N/A,https://www.x-kom.pl/p/1306481-plyta-glowna-socket-am5-asus-tuf-gaming-b850-plus-wifi.html
+2026-09-04,Płyta główna,www.x-kom.pl,N/A,N/A,https://www.x-kom.pl/p/1282691-plyta-glowna-socket-am5-gigabyte-x870-aorus-elite-wifi7-ice.html
+2026-09-04,Płyta główna,www.x-kom.pl,N/A,N/A,https://www.x-kom.pl/p/1480681-plyta-glowna-socket-am4-msi-b550-gaming-wifi.html
+2026-09-04,Płyta główna,www.x-kom.pl,N/A,N/A,https://www.x-kom.pl/p/613677-plyta-glowna-socket-am4-asrock-a520m-itx-ac.html
